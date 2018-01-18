@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "980451867537",
+    "firebase_url": "https://lapradera-8c07a.firebaseio.com",
+    "project_id": "lapradera-8c07a",
+    "storage_bucket": "lapradera-8c07a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980451867537:android:e022ae3645c057c7",
+        "android_client_info": {
+          "package_name": "com.juanguillermo.lapradera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980451867537-n9qsn5nnvds8otq39ksi0sfp4ob6g4gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanguillermo.lapradera",
+            "certificate_hash": "50bef1e0238e5f4f2bc54145461d1652949ccd86"
+          }
+        },
+        {
+          "client_id": "980451867537-laofbsvs3g65uj2bko3c9q9404h9umm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZr41K_A845HnrsorHLx3icnE-LThDf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980451867537-laofbsvs3g65uj2bko3c9q9404h9umm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
